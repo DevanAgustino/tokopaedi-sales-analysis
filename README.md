@@ -52,7 +52,9 @@ Proyek ini terbagi menjadi dua fase utama:
 Setelah melakukan pengolahan data, berikut adalah temuan penting yang berhasil diidentifikasi:
 
  **Kota Revenue Tertinggi:** **New York City** secara konsisten menjadi kontributor pendapatan terbesar bagi perusahaan.
+
  **Identifikasi Konsumen VIP:** Berhasil memfilter daftar konsumen di New York yang memiliki total spending **di atas rata-rata**. Konsumen ini adalah target strategis untuk kampanye pemasaran eksklusif.
+ 
  **Efisiensi Operasional:** Menggunakan teknik **CTE (Common Table Expressions)** untuk menyederhanakan logika query yang kompleks, sehingga proses perhitungan rata-rata spending menjadi lebih cepat dan dinamis.
 
 ## 🛠️ SQL Techniques Used
