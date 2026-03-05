@@ -11,7 +11,9 @@ This project demonstrates a comprehensive data analytics workflow divided into t
 After processing the data, the following key insights were identified:
 
 **Top Revenue City:** **New York City** consistently serves as the largest revenue contributor for the company.
+
 **VIP Customer Identification:** Successfully filtered a list of consumers in New York whose total spending is **above average**. These customers are strategic targets for exclusive marketing campaigns.
+
 **Operational Efficiency:** Utilized **CTE (Common Table Expressions)** to simplify complex query logic, making the calculation of average spending faster and more dynamic.
 
 ## 🛠️ SQL Techniques Used
